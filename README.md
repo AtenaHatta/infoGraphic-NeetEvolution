@@ -1,2 +1,2 @@
 ↓URL<br>
-infographic-neetevolution.netlify.app
+https://infographic-neetevolution.netlify.app/
